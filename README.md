@@ -6,7 +6,7 @@ PS2 Yakuza CVM unpacker and repacker
 - CVMMan -p --game "Y1/Y2_1/Y2_2" --patch-dir "YOUR-MOD-FOLDER" --game-dir "YOUR-GAME-FOLDER"
 ## Example:
 - Setup:
--["Setup"](img/Folders.PNG)
+!["SetupFolder"](img/Folders.PNG)
 - Game Folder:
 !["GameFolder"](img/GameFolder.PNG)
 - Mod folder:
