@@ -11,3 +11,15 @@ PS2 Yakuza CVM unpacker and repacker
 - CVMMan -u --cvm-file "YOUR-CVM" --dir-file "YOUR-OGREDIR"
 # Repacking:
 - CVMMan -r --list-file "YOUR-LIST.JSON"
+
+# Modding the game:
+
+- Extract the game into a folder
+- Patch/Repack a cvm
+- Open ImgBurn, Create ISO from files and select all files in the game folder (if any NEW_ cvm exists, rename it)
+- Use settings:
+!["Settings"](img/ImgBurn.PNG)
+
+## Requirements:
+- 7zip or WinRar
+- ImgBurn, an ISO tool
